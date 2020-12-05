@@ -10,7 +10,7 @@
 
     #project setup instructions
      git clone https://github.com/nimowairimu/wairimu-portfolio-.git
-     cd ../Dmltop/portfolio/portfolio.html
+     cd ../Deskttop/portfolio/index.html
      install
      start
 
