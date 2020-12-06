@@ -1,56 +1,14 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-  <link href="css/style.css" rel="stylesheet" type="text/css" <title> Web Portfolio </title>
+  <link href="css/style.css" rel="stylesheet" type="text/css"
+  <title> Web Portfolio </title>
 </head>
-
-<body>
+ <body>
   <h2>Hello,my name is</h2>
   <h1>WAIRIMU MUNGAI</h1>
   <h4> Hobbyist baker and creative developer</h4>
-  <img src="img" <h3><strong> ABOUT ME</strong></h3>
-  <h2>Who Am I </h2>
-  <p> I'm Wairimu and I build mobile apps ,Android and IOS, that are easy to use. I can helpm you offer your clients a great online experience </p>
-  <p> I am an outgoing, dedicated and open-minded person.I get across to people and adjust to changes with ease.I believe that a person should work on developing their professional skills and learn new things all the time.<br>
-    Currently, I am looking for career opportunities that my current line of study cannot provide
-  <p>
-  <h3><strong>EDUCATION</strong></h3>
-  <ul>
-    <li>
-      <p>2002-2010<br>Juja St. Peters<br><em>K.C.P.E.</em></p>
-    </li>
-    <li>
-      <p>2011-2014<br>Precious Blood-Riruta<br><em>K.C.S.E.</em.< /p>
-    </li>
-    <li>
-      <p>2015-2019<br>Jomo Kenyatta University Of Agriculture and Technology<br><em>BSc.Strategic Management</em></p>
-    </li>
-  </ul>
-  <h3><strong>WORK & EXPERIENCE</strong></h3>
-  <ol>
-    <li>
-      <h2> Department of Immigration<br>March 2018-June 2018</h2>
-    </li>li>
-    <p> As an intern, my main duties included;receiving and recording passport applications from Kenyans living overseas, filing the applications and take them for approval. After approval snd printing i would dispatch them to their respective
-      consulates</p>
-    <li><h2>Stima Sacco<br>Novembh3.er 2019-February 2020</h2></li>
-    <p> As an interning sales and marketing representative, my main duties included, introducing potential custonmers to the products that the sacco offered and filling in filled applications into the CRM nad Navision systems </p>
-    <h3><strong>WHY PROGRAMMING</strong></h3>
-    <p> I got myself into programming because i love the challenge, I am excited by computers and I want to build a career  creating either website/programs or mobile apps. I didn't feel as fulfilled or if I had a future with te field of study I was in <span> I did the course because i was governement sponspored to do it, I just had to</span></p>
-    <p>Software has become so ingrained in the functionality of our societies<em> I spend countles of time of our screens</em> Knowledge of codes and languages used to develop them is becoming an important skill</p>
-    <h3><strong>Hobbies</strong></h3>
-    <p> My hobby is baking. i love serving my friends and family freshly baked cakes. Ever since i learnt how to swim i crave for water.I can say I'm a pro at it</p>
-    <h3><strong> WHAT CAN I DO</strong></h3>
-    <h4>Eccomerce Website<em>Toto's World</em></h4>
-    <ol>
-      <li><h3> Project: Eccomerce Website</h3></li>
-      <li>Decription: An online toy strore needed a website that was attractive, compelling with unique visual look to differentiate it from other similar stores.</li>
-      <li>Contributers : E-tosh team helped with the development of this website</li>
-      <li>languages: Java and Javascript languages were used to make this app </li>
-      <li>Link:
-      <li><h3>< Project: USSD for a Microfinance institution</h3></li>
-      <li>Description: An Unstructured Supplementary Service Data(USSD) are the best communication tech available to Microfinance Institutions to their low income individuals.</li>
-      <li>Contributers : Smith Awour of Tech Youth kenya helped in the development of this USSD.</li>
-      <li>Languages: Kannel Pen source WAP was used in the making of the USSD.</li>
-      <li>Link:
+  <img src 
+  <h3><strong>ABOUT ME</strong></h3>
+  <h2>Who Am I</h2>
+  <p> I'm Wairimu and I build mobile apps, Android or IOS
