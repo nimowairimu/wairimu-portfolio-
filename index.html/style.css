@@ -11,12 +11,14 @@
 }
 .about me {
  background-color:pink;
- text-align: right;
+ text-align:left ;
  width: 960px;
  padding: 50px;
  margin: 20px;
- float: right;
-
+ font-family: monospace;
+}
+.image {
+  float: right;
 }
 .education }
 background-color: lightgrey;
