@@ -1,5 +1,52 @@
-. intro {
-  background-color:grey inherit;
-  font-Family: san-serif;
-  float :left;  -
+.intro {
+  font-family: sans-serif;
+  background-color:pink;
+  width: 960px;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+  }
+.all{
+  background-color: lightblue;
+}
+.about me {
+ background-color:pink;
+ text-align: right;
+ width: 960px;
+ padding: 50px;
+ margin: 20px;
+ float: right;
+
+}
+.education }
+background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  white-space: pre;
+}
+.image {
+  float: right;
+}
+.work {
+background-color:lightgrey;
+white-space: pre;
+}
+.why{
+background-color:lightblue;
+white-space: pre;
+}
+.hobbies{
+background-color: grey;
+white-space: pre;
+}
+.Do{
+background-color:lightblue;
+white-space: pre;
+width: 300px;
+border: 15px solid red;
+padding: 50px;
+margin: 20px;
+
 }
