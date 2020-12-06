@@ -1,14 +1,11 @@
 .intro {
-  font-family: sans-serif;
+  background-image: url(background2.jpg);
   width: 960px;
+  border: 15px solid pink;
   padding: 50px;
   margin: 20px;
   text-align: center;
   }
-.all{
-  background-image: url(background.jpg)
-  font-family: Arial, Helvetica, sans-serif;
-}
 .about me {
  background-color:pink;
  text-align:left ;
