@@ -25,6 +25,7 @@ width: 300px;
 border: 15px solid green;
 padding: 50px;
 margin: 20px;
+font-family: monospace;
 white-space: pre;
 }
 .image {
@@ -32,16 +33,20 @@ white-space: pre;
 }
 .work {
 white-space: pre;
+font-family: monospace;
 }
 .why{
 white-space: pre;
+font-family: monospace;
 }
 .hobbies{
 white-space: pre;
+font-family: monospace;
 }
 .Do{
 white-space: pre;
 width: 300px;
 padding: 50px;
 margin: 20px;
+font-family: monospace;
 }
